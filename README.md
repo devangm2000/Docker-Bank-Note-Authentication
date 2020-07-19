@@ -1,4 +1,4 @@
-# ml_model_docker
+# Docker-ML-Model
 Containerised a ml based application using docker
 1. Install docker
 2. Clone this repo through git
